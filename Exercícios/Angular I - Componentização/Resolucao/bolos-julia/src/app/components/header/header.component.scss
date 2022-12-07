@@ -1,0 +1,26 @@
+
+header .content {
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navigation {
+    width: 25%;
+}
+
+ul {
+    justify-content: space-between;
+    display: flex;
+    list-style-type: none;
+}
+
+li {
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.underline {
+    border-bottom: 2px solid black;
+}

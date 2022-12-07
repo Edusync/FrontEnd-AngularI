@@ -1,0 +1,25 @@
+footer{
+    background-color: #5B3331;
+}
+
+p {
+    font-size: 22px;
+    color: white;
+}
+
+footer .content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 150px;
+}
+
+.socialmedia-links {
+    display: flex;
+    justify-content: space-between;
+    width: 25%;
+}
+
+img {
+    width: 60px;
+}
